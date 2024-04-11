@@ -14,11 +14,11 @@ A projekt a következő technológiákat és nyelveket használja:
 
 ## Kezdés
 
-Ezek az utasítások végigvezetnek a To-Do-App helyi példányának beállításán és futtatásán fejlesztési célból.
+Ezek az utasítások végigvezetnek a Color Flipper helyi példányának beállításán és futtatásán fejlesztési célból.
 
 ### Előfeltételek
 
-A To-Do-App futtatásához csak egy modern webböngészőre van szükséged.
+A Color Flipper futtatásához csak egy modern webböngészőre van szükséged.
 
 ### Telepítés
 
@@ -36,3 +36,8 @@ A To-Do-App futtatásához csak egy modern webböngészőre van szükséged.
 ## Licenc
 
 Ez a projekt jelenleg licenc nélkül áll, ami azt jelenti, hogy minden jog fenntartva. Engedély nélkül nem másolható, módosítható, terjeszthető vagy publikálható semmilyen formában.
+
+## Szerző
+
+- Név: Kiss József
+- GitHub: jozsef-kiss
